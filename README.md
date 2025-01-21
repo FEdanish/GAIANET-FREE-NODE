@@ -35,5 +35,17 @@ gaianet info
 
 <h>Device ID not recognized. Please check Node installation and startup status. If Node is running, use "gaianet info" CLI command to retrieve the correct Device ID</h>
 
+```console
+gaianet stop
+```
+
+```console
+gaianet init --config https://raw.githubusercontent.com/GaiaNet-AI/node-configs/main/qwen2-0.5b-instruct/config.json
+```
+
+```console
+gaianet start
+```
+
 <h1>💎💎 Follow us on telegram for latest FCFS updates and alpha 🪂🪂</h1>
 🪂Link: https://telegram.me/feature_earning

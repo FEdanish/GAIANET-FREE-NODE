@@ -1,5 +1,5 @@
 <h1>The easiest guide to run a GaiaNet node</h1>
-<h>💎Youtube video tutorial:https://youtu.be/nJ3fyyUwd3E?si=d26SiArlBF1l3siW</h>
+<h>💎Youtube video tutorial: https://youtu.be/nJ3fyyUwd3E?si=d26SiArlBF1l3siW</h>
 
 🫰💸💴🤑💲💰
 

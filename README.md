@@ -33,5 +33,7 @@ gaianet info
 ```
 <h1>ALL error solution</h1>
 
+<h>Device ID not recognized. Please check Node installation and startup status. If Node is running, use "gaianet info" CLI command to retrieve the correct Device ID</h>
+
 <h1>💎💎 Follow us on telegram for latest FCFS updates and alpha 🪂🪂</h1>
 🪂Link: https://telegram.me/feature_earning
